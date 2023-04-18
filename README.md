@@ -1,8 +1,8 @@
-# 💫 Sobre Mí:
+# 💫 About Me:
 Frontend Developer<br>Estudiante de CoderHouse 😏<br>Cursos hechos:<br>- Desarrollo Web (Comisión 36030)<br>- JavaScript (Comisión 37725)<br>- React Js (Comisión 38065)<br>- Programación Backend (Comisión 32175)
 
 
-## 🌐 Redes Sociales:
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/𝓘𝓐𝓝𝓣𝓘#8082) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santiago_delgauto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiagogauto) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Santiago_Gaut0) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ Frontend Developer<br>Estudiante de CoderHouse 😏<br>Cursos hechos:<br>- Desar
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SantiagoGauto&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoGauto&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trofeos:
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SantiagoGauto&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
 
 ---
