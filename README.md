@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer<br>Estudiante de CoderHouse 😏<br>Cursos hechos:<br>- Desarrollo Web (Comisión 36030)<br>- JavaScript (Comisión 37725)<br>- React Js (Comisión 38065)<br>- Programación Backend (Comisión 32175)
+Frontend Developer<br>Estudiante de CoderHouse 😏<br>Cursos hechos:<br>- Desarrollo Web (Comisión 36030)<br>16 marzo 2022 | 18 mayo 2022<br>- JavaScript (Comisión 37725)<br>- React Js (Comisión 38065)<br>- Programación Backend (Comisión 32175)
 
 
 ## 🌐 Socials:
